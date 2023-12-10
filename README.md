@@ -1,1 +1,2 @@
 # snipp
+welcome website
